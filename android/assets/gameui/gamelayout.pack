@@ -1,0 +1,47 @@
+
+gamelayout.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cirdown
+  rotate: false
+  xy: 1, 517
+  size: 564, 136
+  orig: 564, 136
+  offset: 0, 0
+  index: -1
+cirup
+  rotate: false
+  xy: 1, 379
+  size: 564, 136
+  orig: 564, 136
+  offset: 0, 0
+  index: -1
+recdown
+  rotate: false
+  xy: 1, 241
+  size: 564, 136
+  orig: 564, 136
+  offset: 0, 0
+  index: -1
+recup
+  rotate: false
+  xy: 1, 103
+  size: 564, 136
+  orig: 564, 136
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 567, 525
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+papper
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

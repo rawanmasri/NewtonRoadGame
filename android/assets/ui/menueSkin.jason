@@ -1,0 +1,90 @@
+{
+  "com.badlogic.gdx.graphics.Color":{
+      "white": {"r":0.545098,"g":0,"b":0,"a":1},
+      "black": {"r":0,"g":0,"b":0,"a":1},
+      "red":   {"r":1,"g":0,"b":0,"a":1},
+      "green": {"r":0,"g":1,"b":0,"a":1},
+      "blue":   {"r":0.870588 ,"g":0.721569 ,"b": 0.529412,"a":1},
+  
+  },
+  
+  "com.badlogic.gdx.graphics.g2d.BitmapFont":{
+      "white": {"file":"font/white.fnt"},
+      "black": {"file":"font/black.fnt"},
+      "white64": {"file":"font/white64.fnt"},
+      "white20": {"file":"font/white20.fnt"},
+      "white30": {"file":"font/white30.fnt"},
+      "white37": {"file":"font/white37.fnt"},
+      "whiteo30": {"file":"font/small.fnt"},
+      "basic": {"file":"font/basic.fnt"},
+      "flabel": {"file":"font/flabel.fnt"},
+      "basic2": {"file":"font/basic2.fnt"},
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle":{
+     "default" : {"font":basic2,"fontColor":white},
+     "mido" : {"font":whiteo30,"fontColor":white},
+      "mid" : {"font":basic,"fontColor":white}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":{
+   "default" : {"up":"back1","down":"back1","font":basic2,"fontColor":blue,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "ball" : {"up":"ballup1","down":"balldown","font":white20,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "box" : {"up":"boxup1","down":"boxdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "mill" : {"up":"millup1","down":"milldown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "movement" : {"up":"movementup1","down":"movementdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "vechile" : {"up":"vhicleup1","down":"vhicledown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "rope" : {"up":"ropeup1","down":"ropedown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "triangle" : {"up":"triangleup1","down":"triangledown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "cannon" : {"up":"canonup1","down":"canondown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "fixed" : {"up":"fixedup1","down":"fixeddown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "elovater" : {"up":"elevatorup1","down":"elevatordown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "start" : {"up":"startup1","down":"startdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "end" : {"up":"endup1","down":"enddown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "animation" : {"up":"animationup1","down":"animationdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "dangerous" : {"up":"dangerousup1","down":"dangerousdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "save" : {"up":"saveup1","down":"savedown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "play" : {"up":"playup1","down":"playdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "back" : {"up":"bigup","down":"bigdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "back2" : {"up":"back2up","down":"back2down","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "joint" : {"up":"jointup","down":"jointdown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "delete" : {"up":"deleteup1","down":"deletedown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      "change" : {"up":"changeup1","down":"changedown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+       "savelevel" : {"up":"savelevelup","down":"saveleveldown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+        "labell" : {"up":"back1","down":"back1","font":flabel,"fontColor":blue,"pressedOffsetX": 1,"pressedOffsetY": -1},
+        "copy" : {"up":"copyup","down":"copydown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+        "levels" : {"up":"levelup","down":"leveldown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+        "return" : {"up":"returnup","down":"returndown","font":white30,"pressedOffsetX": 1,"pressedOffsetY": -1},
+      
+  
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle":{
+    "default" : {"font":whiteo30, "fontColorUnselected":white ,"fontColorSelected":blue, selection:"list1"}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle":{
+  "default" : {"hScrollKnob":"scroll1", "vScrollKnob":"scroll1"}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle":{
+    "default" : {"font":whiteo30,"fontColor":white}
+  
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+	"default": { "titleFont": white20,"titleFontColor": white }
+	
+},
+"com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle":{
+default: { checkboxOn: "true", checkboxOff: "false", font: white20, fontColor: white }
+
+},
+
+  
+ 
+}

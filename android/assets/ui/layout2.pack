@@ -1,0 +1,40 @@
+
+layout2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+listselect
+  rotate: false
+  xy: 1, 80
+  size: 292, 40
+  orig: 292, 40
+  offset: 0, 0
+  index: -1
+changebuttondown
+  rotate: false
+  xy: 1, 14
+  size: 217, 64
+  orig: 217, 64
+  offset: 0, 0
+  index: -1
+changebuttonup
+  rotate: false
+  xy: 220, 18
+  size: 220, 60
+  orig: 220, 60
+  offset: 0, 0
+  index: -1
+createbuttonup
+  rotate: false
+  xy: 442, 61
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+createbuttondown
+  rotate: false
+  xy: 442, 1
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

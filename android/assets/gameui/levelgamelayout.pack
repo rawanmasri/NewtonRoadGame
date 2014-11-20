@@ -1,0 +1,243 @@
+
+levelgamelayout.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+list1
+  rotate: false
+  xy: 1, 409
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+list2
+  rotate: false
+  xy: 1, 307
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+addjointdown1
+  rotate: false
+  xy: 303, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+addjointup
+  rotate: false
+  xy: 1, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+backdown
+  rotate: false
+  xy: 303, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+backdown1
+  rotate: false
+  xy: 405, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+backup
+  rotate: false
+  xy: 1, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+caddjointdown
+  rotate: false
+  xy: 103, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectdown
+  rotate: false
+  xy: 405, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectdown1
+  rotate: false
+  xy: 507, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectdownn
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectdownn1
+  rotate: false
+  xy: 103, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectup
+  rotate: false
+  xy: 205, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+createobjectupp
+  rotate: false
+  xy: 507, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+deletejointdown
+  rotate: false
+  xy: 609, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+deletejointdown1
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+deletejointup
+  rotate: false
+  xy: 205, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+donedown
+  rotate: false
+  xy: 307, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+donedown1
+  rotate: false
+  xy: 609, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+doneup
+  rotate: false
+  xy: 711, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jumpdown1
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jumpdownn
+  rotate: false
+  xy: 307, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jumpupp
+  rotate: false
+  xy: 409, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leftdown1
+  rotate: false
+  xy: 711, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leftdownn
+  rotate: false
+  xy: 813, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leftupp
+  rotate: false
+  xy: 307, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+papper
+  rotate: false
+  xy: 409, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playdown
+  rotate: false
+  xy: 511, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playdown1
+  rotate: false
+  xy: 813, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playup
+  rotate: false
+  xy: 915, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rightdown1
+  rotate: false
+  xy: 409, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rightdownn
+  rotate: false
+  xy: 511, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rightupp
+  rotate: false
+  xy: 613, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 915, 394
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

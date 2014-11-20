@@ -1,0 +1,67 @@
+{
+  "com.badlogic.gdx.graphics.Color":{
+      "white": {"r":1,"g":1,"b":1,"a":1},
+      "black": {"r":0,"g":0,"b":0,"a":1},
+      "red":   {"r":1,"g":0,"b":0,"a":1},
+      "brown": {"r": 0.545098,"g":0.270588,"b": 0.0745098,"a":1},
+      "light":   {"r":0.823529,"g":0.705882,"b":0.54902,"a":1},
+  
+  },
+  
+  "com.badlogic.gdx.graphics.g2d.BitmapFont":{
+      "white": {"file":"font/white.fnt"},
+      "black": {"file":"font/black.fnt"},
+      "white64": {"file":"font/white64.fnt"},
+      "white20": {"file":"font/white20.fnt"},
+      "white30": {"file":"font/white30.fnt"},
+      "white37": {"file":"font/white37.fnt"},
+      "whiteo30": {"file":"font/whiteo30.fnt"}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle":{
+     "default" : {"font":white20,"fontColor":white},
+     "mido" : {"font":whiteo30,"fontColor":white},
+      "mid" : {"font":white37,"fontColor":white},
+      "large" : {"font":white64,"fontColor":white,"fontColor":brown},
+       "level" : {"font":white64,"fontColor":white,"fontColor":light},
+       
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":{
+   "default" : {"up":"papper","down":"papper","font":white30,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -10},
+      "addjoint" : {"up":"addjointup","down":"caddjointdown","font":white30,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+      "addobject" : {"up":"createobjectup","down":"createobjectdown","font":white30,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+       "back" : {"up":"backup","down":"backdown","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "deletejoint" : {"up":"deletejointup","down":"deletejointdown1","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "done" : {"up":"doneup","down":"donedown","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "jump" : {"up":"jumpupp","down":"jumpdownn","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "left" : {"up":"leftupp","down":"leftdownn","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "right" : {"up":"rightupp","down":"rightdownn","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+        "play" : {"up":"playup","down":"playdown","font":white20,"fontColor":brown,"pressedOffsetX": 1,"pressedOffsetY": -3},
+      
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle":{
+    "default" : {"font":whiteo30, "fontColorUnselected":white ,"fontColorSelected":black, selection:"list1"}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle":{
+  "default" : {"hScrollKnob":"scroll", "vScrollKnob":"scroll"}
+  
+  },
+  
+  "com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle":{
+    "default" : {"font":whiteo30,"fontColor":red}
+  
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+	"default": { "titleFont": white20,"titleFontColor": white }
+	
+},
+  
+ 
+}

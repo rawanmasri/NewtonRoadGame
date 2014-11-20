@@ -1,0 +1,110 @@
+
+gameui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 1, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+createjoint
+  rotate: false
+  xy: 67, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+deletejoint
+  rotate: false
+  xy: 133, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 199, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+leveldown
+  rotate: false
+  xy: 265, 417
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+leveldown1
+  rotate: false
+  xy: 578, 417
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+papper
+  rotate: false
+  xy: 891, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+levelup
+  rotate: false
+  xy: 1, 322
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+levelup1
+  rotate: false
+  xy: 314, 322
+  size: 311, 93
+  orig: 311, 93
+  offset: 0, 0
+  index: -1
+menudown11
+  rotate: false
+  xy: 1, 215
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
+menudown12
+  rotate: false
+  xy: 404, 215
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
+menudown21
+  rotate: false
+  xy: 1, 108
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
+menudown22
+  rotate: false
+  xy: 404, 108
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
+menueup2
+  rotate: false
+  xy: 1, 1
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
+menuup1
+  rotate: false
+  xy: 404, 1
+  size: 401, 105
+  orig: 401, 105
+  offset: 0, 0
+  index: -1
